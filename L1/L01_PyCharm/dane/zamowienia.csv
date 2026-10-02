@@ -1,0 +1,9 @@
+﻿zamowienie_id;klient_id;status;kwota_pln
+Z01;C01;nowe;1200.00
+Z02;C02;zrealizowane;600.00
+Z03;C01;w_realizacji;900.00
+Z04;C03;anulowane;400.00
+Z05;C04;zrealizowane;1500.00
+Z06;C02;nowe;700.00
+Z07;C03;w_realizacji;800.00
+Z08;C04;zrealizowane;300.00

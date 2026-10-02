@@ -1,0 +1,22 @@
+[
+  {
+    "klient_id": "C01",
+    "nazwa": "Klient Alfa (syntetyczny)",
+    "segment": "B2B"
+  },
+  {
+    "klient_id": "C02",
+    "nazwa": "Klient Beta (syntetyczny)",
+    "segment": "B2C"
+  },
+  {
+    "klient_id": "C03",
+    "nazwa": "Klient Gamma (syntetyczny)",
+    "segment": "B2B"
+  },
+  {
+    "klient_id": "C04",
+    "nazwa": "Klient Delta (syntetyczny)",
+    "segment": "B2C"
+  }
+]
