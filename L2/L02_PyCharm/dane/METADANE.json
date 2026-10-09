@@ -1,0 +1,7 @@
+{
+  "snapshot": "L02_2026_10_09",
+  "dzien_oceny": "2026-10-09",
+  "pochodzenie": "Dane syntetyczne do zajęć, nie są rekordami rzeczywistej firmy.",
+  "granulacja": "Jeden wiersz zamowienia.csv = całe zamówienie jednego produktu.",
+  "uwaga": "Kwalifikacja indywidualna nie rezerwuje wspólnego magazynu."
+}

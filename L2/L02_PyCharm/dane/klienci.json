@@ -1,0 +1,44 @@
+[
+  {
+    "id": "K01",
+    "nazwa": "Firma Alfa",
+    "segment": "B2B",
+    "vip": true,
+    "blokada": false
+  },
+  {
+    "id": "K02",
+    "nazwa": "Klient Beta",
+    "segment": "B2C",
+    "vip": false,
+    "blokada": false
+  },
+  {
+    "id": "K03",
+    "nazwa": "Firma Gamma",
+    "segment": "B2B",
+    "vip": false,
+    "blokada": false
+  },
+  {
+    "id": "K04",
+    "nazwa": "Firma Delta",
+    "segment": "B2B",
+    "vip": true,
+    "blokada": true
+  },
+  {
+    "id": "K05",
+    "nazwa": "Klient Epsilon",
+    "segment": "B2C",
+    "vip": false,
+    "blokada": false
+  },
+  {
+    "id": "K06",
+    "nazwa": "Firma Zeta",
+    "segment": "B2B",
+    "vip": true,
+    "blokada": false
+  }
+]

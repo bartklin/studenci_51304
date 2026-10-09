@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MON",
+    "nazwa": "Monitor",
+    "stan_szt": 7,
+    "rezerwacje_szt": 2
+  },
+  {
+    "id": "LAP",
+    "nazwa": "Laptop",
+    "stan_szt": 4,
+    "rezerwacje_szt": 1
+  },
+  {
+    "id": "KEY",
+    "nazwa": "Klawiatura",
+    "stan_szt": 5,
+    "rezerwacje_szt": 1
+  },
+  {
+    "id": "DOC",
+    "nazwa": "Stacja dokująca",
+    "stan_szt": 3,
+    "rezerwacje_szt": 1
+  }
+]
