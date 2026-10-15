@@ -1,0 +1,6 @@
+﻿external_customer_id;customer_name;customer_type;tax_id;email_id;mobile_no;address_line1;address_line2;city;pincode;country;customer_group;territory
+C001;Alfa Analizy sp. z o.o.;Company;SZKOLENIOWY-C001;biuro@alfa-analizy.example;+48 500 000 101;ul. Testowa 1;;Opole;45-001;Poland;;
+C002;Beta Handel sp. z o.o.;Company;SZKOLENIOWY-C002;zamowienia@beta-handel.example;+48 500 000 102;ul. Danych 7;;Krapkowice;47-300;Poland;;
+C003;Gamma Serwis sp. z o.o.;Company;SZKOLENIOWY-C003;kontakt@gamma-serwis.example;+48 500 000 103;ul. Systemowa 15;lok. 2;Prudnik;48-200;Poland;;
+C004;Delta Edukacja sp. z o.o.;Company;SZKOLENIOWY-C004;sekretariat@delta-edukacja.example;+48 500 000 104;ul. Akademicka 4;;Nysa;48-300;Poland;;
+C005;Epsilon Projekty sp. z o.o.;Company;SZKOLENIOWY-C005;projekty@epsilon.example;+48 500 000 105;ul. Procesowa 22;;Brzeg;49-300;Poland;;

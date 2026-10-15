@@ -1,0 +1,9 @@
+erpnext.env
+__pycache__/
+*.pyc
+wyniki/*.csv
+wyniki/*.json
+wyniki/faktury_json/
+wyniki/faktury_pdf/
+.idea/
+.venv/
